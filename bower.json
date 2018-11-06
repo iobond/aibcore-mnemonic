@@ -1,19 +1,19 @@
 {
-  "name": "bitcore-mnemonic",
+  "name": "aibcore-mnemonic",
   "main": "./bitcore-mnemonic.min.js",
   "version": "1.1.4",
-  "homepage": "https://github.com/bitpay/bitcore-mnemonic",
+  "homepage": "https://github.com/iobond/aibcore-mnemonic",
   "authors": [
-    "BitPay"
+    "AIB Dev <dev@aib.one>"
   ],
   "description": "BIP39 - Mnemonics implemented for Bitcore.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
+    "aib",
+    "aibcore",
+    "aib",
     "satoshi",
     "mnemonic"
   ],
