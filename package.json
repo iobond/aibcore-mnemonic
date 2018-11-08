@@ -1,6 +1,6 @@
 {
   "name": "aibcore-mnemonic",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "AIB Dev <dev@aib.one>",
   "main": "index.js",
